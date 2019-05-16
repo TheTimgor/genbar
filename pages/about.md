@@ -1,4 +1,6 @@
-<img src="https://i.ibb.co/Z6FQPdJ/Gen-Bar-2014.jpg" alt="Gen-Bar-2014" border="0">
+# About Us
+
+![Genbar with tablets](https://i.ibb.co/Z6FQPdJ/Gen-Bar-2014.jpg)
 
 Genius Barons History Timeline
   2013​
